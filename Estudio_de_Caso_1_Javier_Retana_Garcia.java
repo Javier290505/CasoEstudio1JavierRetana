@@ -105,19 +105,24 @@ public class Estudio_de_Caso_1_JavierRetanaGarcia {
        
             String Factura="";
             
-        if Factura==20000 = JOptionPane.showMessageDialog(null,"La factura pertenece a Julio S");
-        else;
-        if Factura==35000 = JOptionPane.showMessageDialog(null,"La factura pertenece a Ramon");
-        else;
-        if Factura==60000 = JOptionPane.showMessageDialog(null,"La Factura pertenece a Julio V");
-        else;
-        if Factura==25000 = JOptionPane.showMessageDialog(null,"La Factura Pertenece a Natalia");
-        else;
-        if Factura==45000 = JOptionPane.showMessageDialog(null,"La Factura Pertenece a Jimena");
-        
-        
-        
+        if Factura==20000{
+            System.out.println("La factura pertenece a Julio S");
+        }else {
+            if Factura==35000{
+                Sstem.out.println("La Factura pertenece a Ramon");
+                }else {
+            if Factura==60000{
+                Sstem.out.println("La Factura pertenece a Julio V");
+                }else {
+            if Factura==25000{
+                Sstem.out.println("La Factura pertenece a Natalia");
+                }else {
+            if Factura==45000{
+                Sstem.out.println("La Factura pertenece a Jimena");
+            }
+            }
+            }
+            }
         }
-    }
+        }
 
-}
