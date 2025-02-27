@@ -14,6 +14,14 @@ public class Estudio_de_Caso_1_JavierRetanaGarcia {
     public static void main(String[] args) {
         System.out.println("Hello World!");
         
+        String nombre;
+        String cedula;
+        String codigo;
+        String monto;
+        String mes;
+        String electonicos;
+        String automotrices;
+        String construcciones;
         
         class clientes {
 //Se utilizan privates para cada consigna y de este modo organizarlo
@@ -119,10 +127,11 @@ public class Estudio_de_Caso_1_JavierRetanaGarcia {
                 }else {
             if Factura==45000{
                 Sstem.out.println("La Factura pertenece a Jimena");
-            }
-            }
-            }
-            }
-        }
-        }
+     }
+    }
+   }
+  }
+ }
+}
+    
 
